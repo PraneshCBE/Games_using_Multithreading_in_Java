@@ -1,0 +1,23 @@
+Block Cells
+2
+14
+16
+18
+28
+32
+*
+Destroyed Block
+32
+*
+Moves
+down
+down
+down
+down
+down
+right
+right
+right
+right
+right
+*
